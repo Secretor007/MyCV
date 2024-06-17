@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"PRATHAM KADAVE","author":"Volturb","subject":"","keywords":"DAGHtoXKMq8,BAFJNyNG59M","creator":"Canva","producer":"Canva","creationdate":"D:20240610072535+00'00'","moddate":"D:20240610072535+00'00'","trapped":"","fileName":"PRATHAM_KADAVE.pdf","bounds":[[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
